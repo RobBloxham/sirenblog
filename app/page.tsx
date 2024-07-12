@@ -20,6 +20,14 @@ export default function Home() {
            The articles are satire and the music is AI generated. </p> 
            </div>
         </span>
+      </h1>
+      <h1>
+        <span className="block text-base text-center text-pink-400 font-semibold tracking-wide uppercase pt-6 text-xl">
+            A special thanks to our sponsor
+        </span>
+        <span className="mt-2 block text-xl text-center leading-8 font-bold tracking-tight sm:text-xl px-10 py-5">
+           <p>Hawaii's number one realtor:  Swags buddy</p> 
+        </span>
       </h1>            
     </div>  
     <BlogCard />

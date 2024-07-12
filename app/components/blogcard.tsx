@@ -22,7 +22,7 @@ async function getData() {
 }
 
 export default async function BlogCard() {
-  const data: simpleBlogCardeBlogCard[] = await getData()
+  const data: simpleBlogCard[] = await getData()
   return (
     <div>
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 mt-5 gap-5">
