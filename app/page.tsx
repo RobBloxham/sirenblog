@@ -19,7 +19,7 @@ export default function Home() {
            The articles are satire and the music is AI generated. </p> 
            </div>
         </span>
-      </h1>         
+      </h1>          
     </div>  
     <BlogCard />
     </>
